@@ -2,4 +2,4 @@ This project recreates some of the properties of a biological neural network in 
 
 To install, just copy grid_animation.py and grid_rules.py into the desired folder and run grid_animation.py. Requires numpy (for the math) and pyglet (for the visualization).
 
-![200x200 grid showing neuron activations](https://github.com/joshdempster/cell-grid/screenshot.jpg)
+![200x200 grid showing neuron activations](https://github.com/joshdempster/cell-grid/blob/master/screenshot.jpg)
