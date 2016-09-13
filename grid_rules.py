@@ -121,6 +121,7 @@ def activation_test_suite():
     grid.neurons[:] = neurons
 
     def test_activation(expected, synapse):
+        print 'testing activation function'
         grid.synapse_clear()
         grid.synapses[synapse][:] = active_synapse[:]
         grid.set_activation()
